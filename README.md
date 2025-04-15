@@ -68,7 +68,7 @@ BookFlow/
 1. **Clone the Repository**
 
 ```bash
-git clone https://github.com/yrdaman/BookFlow.git
+git clone https://github.com/yrdaman/Book-Flow.git
 cd BookFlow
 ```
 
